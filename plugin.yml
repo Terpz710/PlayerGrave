@@ -1,6 +1,6 @@
 name: PlayerGrave
 version: 1.0.0
-api: 4.0.0
+api: 5.0.0
 main: BlockMagicDev\PlayerGrave\Loader
 author: BlockMagicDev
 description: Plugin for PocketMine-MP that creates graves for players when they die!
