@@ -24,3 +24,12 @@ despawn-time: 40
 #    - End
 worlds: []
 ```
+
+# Credits
+
+Thanks to the original devs for creating this plugin!
+
+Authors: @DavidGlitch04
+         @YTBJero
+         @Taylor-pm-pl
+         @BlockMagicDev
