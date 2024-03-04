@@ -1,7 +1,7 @@
 <h1>PlayerGrave<img src="assets/images/icon.png" height="64" width="64" align="left"></img></h1><br/>
 
 
-[![Lint](https://poggit.pmmp.io/ci.shield/VCraftGames/PlayerGrave/PlayerGrave)](https://poggit.pmmp.io/ci/VCraftGames/PlayerGrave/PlayerGrave)
+[![Lint](https://poggit.pmmp.io/ci.shield/Terpz710/PlayerGrave/PlayerGrave)](https://poggit.pmmp.io/ci/Terpz710/PlayerGrave/PlayerGrave)
 [![Discord](https://img.shields.io/discord/979551565415346297.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ApDXa7Tm)
 
 ✨ **A plugin for PocketMine-MP that spawn graves of players when they die.**
