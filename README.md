@@ -2,7 +2,6 @@
 
 
 [![Lint](https://poggit.pmmp.io/ci.shield/Terpz710/PlayerGrave/PlayerGrave)](https://poggit.pmmp.io/ci/Terpz710/PlayerGrave/PlayerGrave)
-[![Discord](https://img.shields.io/discord/979551565415346297.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ApDXa7Tm)
 
 ✨ **A plugin for PocketMine-MP that spawn graves of players when they die.**
 
@@ -33,3 +32,6 @@ Authors: @DavidGlitch04
          @YTBJero
          @Taylor-pm-pl
          @BlockMagicDev
+
+**Current Maintainers**
+Devs: Terpz710
